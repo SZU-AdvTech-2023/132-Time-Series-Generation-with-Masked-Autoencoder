@@ -1,0 +1,6 @@
+@article{REPO132,
+    author = "Zha, Mengyue and Wong, SiuTim and Liu, Mengqi and Zhang, Tong and Chen, Kani",
+    journal = "arXiv preprint arXiv:2201.07006",
+    title = "{Time Series Generation with Masked Autoencoder}",
+    year = "2022"
+}
